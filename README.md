@@ -21,7 +21,7 @@ Gravity Defied is a motorcycle trial racing game originally developed by Codebre
 ## Web
 
 - [yurkagon/gravity-defied-web](https://github.com/yurkagon/gravity-defied-web) - Browser port based on the C++ version, using Canvas rendering, keyboard and touch controls, and local progress saves. TypeScript. [Play](https://yurkagon.github.io/gravity-defied-web/).
-- [LitoMore/gravity-defied-web](https://github.com/LitoMore/gravity-defied-web) - WebAssembly adaptation of the C++ and SDL2 port, with keyboard, touch, and gamepad controls and IndexedDB saves. C++.
+- [LitoMore/gravity-defied-web](https://github.com/LitoMore/gravity-defied-web) - WebAssembly adaptation of the C++ and SDL2 port, with keyboard, touch, and gamepad controls and IndexedDB saves. C++. [Play](https://litomore.github.io/gravity-defied-web/).
 - [MihailPreis/Wheelie](https://github.com/MihailPreis/Wheelie) - Browser port based on the Android version, with community level packs, a track editor, shareable replays, and ghost racing. TypeScript. [Play](https://mihailpreis.github.io/Wheelie/).
 
 ## Handhelds and Embedded Devices
