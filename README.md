@@ -1,3 +1,5 @@
+![Awesome Gravity Defied — a rider jumping above a green wireframe trials track](assets/banner.webp)
+
 # Awesome Gravity Defied [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of Gravity Defied ports, remakes, level tools, and experiments on GitHub.
