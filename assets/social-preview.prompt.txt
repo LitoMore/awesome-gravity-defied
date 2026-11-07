@@ -1,0 +1,13 @@
+Use case: ads-marketing.
+Asset type: GitHub repository social preview banner, exactly 1280x640 pixels, 2:1 landscape aspect ratio.
+Primary request: Regenerate the attached Awesome Gravity Defied banner with a fresh composition designed for 2:1. Use the attached image as a visual style and content reference. Preserve the same retro minimalist motorcycle trials identity, palette, typography hierarchy and wording. Recompose all elements naturally into the taller 2:1 canvas rather than stretching or cropping the 3:1 reference.
+Scene/backdrop: almost-black deep forest green background extending to all four edges. Bright grass-green angular wireframe trials terrain along the bottom, rising into a sharp ramp at the lower right, sparse triangular mesh underneath. Very restrained thin green background contour echoes.
+Subject: a compact minimalist 2D side-view trials motorbike with crouched helmeted rider, airborne above the ramp at upper right, facing right. Two clearly separated circular spoked wheels, fine warm cream motorbike frame, red-orange torso, cream helmet. Coherent mechanical geometry and recognizable motorbike silhouette.
+Style/medium: polished retro game editorial cover, crisp flat vector-like illustration, clean geometric strokes, restrained texture, no 3D.
+Composition: generous 7 percent safe margins. Left 60 percent contains the typography, right 35 percent contains the small airborne bike and ramp. Small green uppercase AWESOME above very large warm cream heavy condensed sans-serif GRAVITY on one line, DEFIED on the next. Keep all text inside safe bounds, fully legible and comfortably spaced. Below title put the exact subtitle in smaller cream type, wrapping into two balanced lines if needed. Terrain stays below text. Use the taller composition elegantly with deliberate negative space.
+Text verbatim, exactly these four elements: "AWESOME", "GRAVITY", "DEFIED", "Ports, remakes, level tools & experiments".
+Constraints: final canvas must be exactly 2:1, ideally 1280x640. Preserve spelling and the content. A single motorbike rider. Strong hierarchy, uncluttered, no enclosing card, no rounded corners.
+Avoid: photos, gradients, neon glows, purple, extra words, logos, watermarks, decorative icons, fake UI.
+
+Generation: built-in image_gen, using assets/banner.png as a style reference.
+Output: assets/social-preview.png, resized to 1280x640 and PNG compression optimized.
